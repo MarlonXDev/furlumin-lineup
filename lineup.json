@@ -1,0 +1,10 @@
+{
+  "title": "DJ SCHEDULE",
+  "performers": [
+    { "name": "DJ Goofy", "genre": "Open House", "start": 1769262300, "durationMinutes": 60 },
+    { "name": "nullreff", "genre": "Thunder", "start": 1769265900, "durationMinutes": 60 },
+    { "name": "JohCaw, Valant & KA!JU", "genre": "B2B", "start": 1769269500, "durationMinutes": 60 },
+    { "name": "CAWSTIC", "genre": "Dark Bass", "start": 1769273100, "durationMinutes": 60 },
+    { "name": "ARP3GGI/O", "genre": "Drum and Bass", "start": 1769276700, "durationMinutes": 60 }
+  ]
+}
