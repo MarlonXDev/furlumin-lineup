@@ -1,10 +1,16 @@
 {
   "title": "DJ SCHEDULE",
+  "worldName": "Furlumin",
+  "tagline": "DANCE TOGETHER, FLY TOGETHER",
+  "thanksMessage": "Thank you for visiting!\nSoar high, and fly safe!",
   "performers": [
-    { "name": "DJ Goofy", "genre": "Open House", "start": 1769262300, "durationMinutes": 60 },
-    { "name": "nullreff", "genre": "Thunder", "start": 1769265900, "durationMinutes": 60 },
-    { "name": "JohCaw, Valant & KA!JU", "genre": "B2B", "start": 1769269500, "durationMinutes": 60 },
-    { "name": "CAWSTIC", "genre": "Dark Bass", "start": 1769273100, "durationMinutes": 60 },
-    { "name": "ARP3GGI/O", "genre": "Drum and Bass", "start": 1769276700, "durationMinutes": 60 }
+    { "name": "Jere",       "genre": "Uplifting Trance",         "start": 1798999200, "durationMinutes": 60 },
+    { "name": "Dax",        "genre": "Hard Techno / Hardstyle",  "start": 1799002800, "durationMinutes": 61 },
+    { "name": "Arktis",     "genre": "Bass House / UK Garage",   "start": 1799006460, "durationMinutes": 59 },
+    { "name": "HMage",      "genre": "Progressive Trance",       "start": 1799009940, "durationMinutes": 59 },
+    { "name": "Wildfeather","genre": "Drum and Bass",            "start": 1799013420, "durationMinutes": 61 },
+    { "name": "northstar",  "genre": "Multi-Genre",              "start": 1799017080, "durationMinutes": 59 },
+    { "name": "Lau",        "genre": "Liquid Drum and Bass",     "start": 1799020560, "durationMinutes": 62 },
+    { "name": "Close",      "genre": "",                          "start": 1799024280, "durationMinutes": 15 }
   ]
 }
