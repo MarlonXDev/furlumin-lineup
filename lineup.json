@@ -4,7 +4,10 @@
   "tagline": "DANCE TOGETHER, FLY TOGETHER",
   "thanksMessage": "Thank you for visiting!\nSoar high, and fly safe!",
   "performers": [
-    { "name": "Test DJ Live",  "genre": "Testing Highlight", "start": 1789610160, "durationMinutes": 60 },
-    { "name": "Test DJ Next",  "genre": "Testing Time Label", "start": 1789613760, "durationMinutes": 60 }
+    { "name": "Valnar",     "genre": "", "start": 1789603200, "durationMinutes": 60 },
+    { "name": "Kex",        "genre": "", "start": 1789606800, "durationMinutes": 60 },
+    { "name": "LoRd_Z",     "genre": "", "start": 1789610400, "durationMinutes": 60 },
+    { "name": "Paris01",    "genre": "", "start": 1789614000, "durationMinutes": 60 },
+    { "name": "Open Decks", "genre": "", "start": 1789617600, "durationMinutes": 60 }
   ]
 }
