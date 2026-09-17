@@ -4,10 +4,13 @@
   "tagline": "DANCE TOGETHER, FLY TOGETHER",
   "thanksMessage": "Thank you for visiting!\nSoar high, and fly safe!",
   "performers": [
-    { "name": "Valnar",     "genre": "", "start": 1789602126, "durationMinutes": 60 },
-    { "name": "Kex",        "genre": "", "start": 1789605726, "durationMinutes": 60 },
-    { "name": "LoRd_Z",     "genre": "", "start": 1789609326, "durationMinutes": 60 },
-    { "name": "Paris01",    "genre": "", "start": 1789612926, "durationMinutes": 60 },
-    { "name": "Open Decks", "genre": "", "start": 1789616526, "durationMinutes": 60 }
+    { "name": "Valnar",       "genre": "Uplifting Trance",        "start": 1789629279, "durationMinutes": 60 },
+    { "name": "Kex",          "genre": "Hard Techno",             "start": 1789632879, "durationMinutes": 60 },
+    { "name": "LoRd_Z",       "genre": "Dark Bass",               "start": 1789636479, "durationMinutes": 60 },
+    { "name": "Paris01",      "genre": "Progressive House",       "start": 1789640079, "durationMinutes": 60 },
+    { "name": "fluffigerdj",  "genre": "Drum and Bass",           "start": 1789643679, "durationMinutes": 60 },
+    { "name": "Traum Lewis",  "genre": "Melodic Techno",          "start": 1789647279, "durationMinutes": 60 },
+    { "name": "northstar",    "genre": "Multi-Genre",             "start": 1789650879, "durationMinutes": 60 },
+    { "name": "Open Decks",   "genre": "Open Format",             "start": 1789654479, "durationMinutes": 60 }
   ]
 }
