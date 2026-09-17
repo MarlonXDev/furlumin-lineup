@@ -4,7 +4,7 @@
   "tagline": "DANCE TOGETHER, FLY TOGETHER",
   "thanksMessage": "Thank you for visiting!\nSoar high, and fly safe!",
   "performers": [
-    { "name": "Valnar",       "genre": "",           "start": 1789844400, "durationMinutes": 120 },
+    { "name": "Valnar",       "genre": "test",           "start": 1789844400, "durationMinutes": 120 },
     { "name": "Kex",          "genre": "",           "start": 1789851600, "durationMinutes": 60 },
     { "name": "LoRd_Z",       "genre": "",           "start": 1789855200, "durationMinutes": 60 },
     { "name": "Paris01",      "genre": "",           "start": 1789858800, "durationMinutes": 60 },
