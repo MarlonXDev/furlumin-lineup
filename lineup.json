@@ -2,15 +2,14 @@
   "title": "DJ SCHEDULE",
   "worldName": "Furlumin",
   "tagline": "DANCE TOGETHER, FLY TOGETHER",
-  "thanksMessage": "Thank you for visiting!\nSoar high, and fly safe!",
+  "thanksMessage": "Thank you for visiting!",
   "performers": [
-    { "name": "Nova",       "genre": "Trance",         "start": 1789715640, "durationMinutes": 60 },
-    { "name": "Skyline",    "genre": "Melodic House",  "start": 1789719240, "durationMinutes": 60 },
-    { "name": "Reaper",     "genre": "Dubstep",        "start": 1789722840, "durationMinutes": 60 },
-    { "name": "Glowbeat",   "genre": "Future Bass",    "start": 1789726440, "durationMinutes": 60 },
-    { "name": "Voxen",      "genre": "Techno",         "start": 1789730040, "durationMinutes": 60 },
-    { "name": "Aurelia",    "genre": "Ambient/Chill",  "start": 1789733640, "durationMinutes": 60 },
-    { "name": "Dustwave",   "genre": "Deep House",     "start": 1789737240, "durationMinutes": 60 },
-    { "name": "Finale",     "genre": "Open Format",    "start": 1789740840, "durationMinutes": 60 }
+    { "name": "Valnar",       "genre": "Smooth into Hardstyle", "start": 1789844400, "durationMinutes": 120 },
+    { "name": "Kex",          "genre": "Happy Hardcore",        "start": 1789851600, "durationMinutes": 60 },
+    { "name": "LoRd_Z",       "genre": "Hard Techno",           "start": 1789855200, "durationMinutes": 60 },
+    { "name": "Paris01",      "genre": "Schranz",               "start": 1789858800, "durationMinutes": 60 },
+    { "name": "fluffigerdj",  "genre": "Melodic Hardstyle",     "start": 1789862400, "durationMinutes": 60 },
+    { "name": "Traum Lewis",  "genre": "Techno",                "start": 1789866000, "durationMinutes": 60 },
+    { "name": "Open Decks",   "genre": "",                       "start": 1789869600, "durationMinutes": 60 }
   ]
 }
