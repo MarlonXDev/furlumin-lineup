@@ -2,7 +2,7 @@
   "title": "DJ SCHEDULE",
   "worldName": "Furlumin",
   "tagline": "DANCE TOGETHER, FLY TOGETHER",
-  "thanksMessage": "Thank you for visiting!\nSoar high, and fly safe!",
+  "thanksMessage": "Thank you for visiting!",
   "performers": [
     { "name": "Valnar",       "genre": "Uplifting Trance",        "start": 1789629279, "durationMinutes": 60 },
     { "name": "Kex",          "genre": "Hard Techno",             "start": 1789632879, "durationMinutes": 60 },
