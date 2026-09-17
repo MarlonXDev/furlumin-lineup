@@ -2,15 +2,15 @@
   "title": "DJ SCHEDULE",
   "worldName": "Furlumin",
   "tagline": "DANCE TOGETHER, FLY TOGETHER",
-  "thanksMessage": "Thank you for visiting!",
+  "thanksMessage": "Thank you for visiting!\nSoar high, and fly safe!",
   "performers": [
-    { "name": "Valnar",       "genre": "Uplifting Trance",        "start": 1789629279, "durationMinutes": 60 },
-    { "name": "Kex",          "genre": "Hard Techno",             "start": 1789632879, "durationMinutes": 60 },
-    { "name": "LoRd_Z",       "genre": "Dark Bass",               "start": 1789636479, "durationMinutes": 60 },
-    { "name": "Paris01",      "genre": "Progressive House",       "start": 1789640079, "durationMinutes": 60 },
-    { "name": "fluffigerdj",  "genre": "Drum and Bass",           "start": 1789643679, "durationMinutes": 60 },
-    { "name": "Traum Lewis",  "genre": "Melodic Techno",          "start": 1789647279, "durationMinutes": 60 },
-    { "name": "northstar",    "genre": "Multi-Genre",             "start": 1789650879, "durationMinutes": 60 },
-    { "name": "Open Decks",   "genre": "Open Format",             "start": 1789654479, "durationMinutes": 60 }
+    { "name": "Nova",       "genre": "Trance",         "start": 1789715640, "durationMinutes": 60 },
+    { "name": "Skyline",    "genre": "Melodic House",  "start": 1789719240, "durationMinutes": 60 },
+    { "name": "Reaper",     "genre": "Dubstep",        "start": 1789722840, "durationMinutes": 60 },
+    { "name": "Glowbeat",   "genre": "Future Bass",    "start": 1789726440, "durationMinutes": 60 },
+    { "name": "Voxen",      "genre": "Techno",         "start": 1789730040, "durationMinutes": 60 },
+    { "name": "Aurelia",    "genre": "Ambient/Chill",  "start": 1789733640, "durationMinutes": 60 },
+    { "name": "Dustwave",   "genre": "Deep House",     "start": 1789737240, "durationMinutes": 60 },
+    { "name": "Finale",     "genre": "Open Format",    "start": 1789740840, "durationMinutes": 60 }
   ]
 }
