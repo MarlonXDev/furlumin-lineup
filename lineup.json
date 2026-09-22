@@ -4,12 +4,13 @@
   "tagline": "DANCE TOGETHER, FLY TOGETHER",
   "thanksMessage": "Thank you for visiting!",
   "performers": [
-    { "name": "Valnar",       "genre": "Smooth into Hardstyle", "start": 1789844400, "durationMinutes": 120 },
-    { "name": "Kex",          "genre": "Happy Hardcore",        "start": 1789851600, "durationMinutes": 60 },
-    { "name": "LoRd_Z",       "genre": "Hard Techno",           "start": 1789855200, "durationMinutes": 60 },
-    { "name": "Pariso01",      "genre": "Schranz",               "start": 1789858800, "durationMinutes": 60 },
-    { "name": "Traumlewis",  "genre": "Techno",     "start": 1789862400, "durationMinutes": 60 },
-    { "name": "fluffigerdj",  "genre": "Melodic Hardstyle",                "start": 1789866000, "durationMinutes": 60 },
-    { "name": "Open Decks",   "genre": "",                       "start": 1789869600, "durationMinutes": 60 }
+    { "name": "Fluffigerdj",  "genre": "Rawstyle",                     "start": 1790449200, "durationMinutes": 60 },
+    { "name": "Vascare",      "genre": "Schranz",                      "start": 1790452800, "durationMinutes": 60 },
+    { "name": "Berghausa",    "genre": "Happyhardcore",                "start": 1790456400, "durationMinutes": 60 },
+    { "name": "Goldman",      "genre": "Rawstyle/Frenchcore/Uptempo",  "start": 1790460000, "durationMinutes": 60 },
+    { "name": "Traumlewis",  "genre": "Harddarktechno",               "start": 1790463600, "durationMinutes": 60 },
+    { "name": "Sowoki",       "genre": "Neuro+",                       "start": 1790467200, "durationMinutes": 60 },
+    { "name": "Shyntowo",     "genre": "4x4",                          "start": 1790470800, "durationMinutes": 60 },
+    { "name": "Open Decks",   "genre": "",                             "start": 1790474400, "durationMinutes": 60 }
   ]
 }
