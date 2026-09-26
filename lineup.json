@@ -9,8 +9,8 @@
     { "name": "Berghausa",    "genre": "Happyhardcore",                "start": 1790456400, "durationMinutes": 60 },
     { "name": "Goldman",      "genre": "Rawstyle/Frenchcore/Uptempo",  "start": 1790460000, "durationMinutes": 60 },
     { "name": "Traumlewis",  "genre": "Harddarktechno",               "start": 1790463600, "durationMinutes": 60 },
-    { "name": "Sowoki",       "genre": "Neuro+",                       "start": 1790467200, "durationMinutes": 60 },
-    { "name": "Shyntowo",     "genre": "4x4",                          "start": 1790470800, "durationMinutes": 60 },
-    { "name": "Open Decks",   "genre": "",                             "start": 1790474400, "durationMinutes": 60 }
+    { "name": "Sowoki",       "genre": "Neuro+",                       "start": 1790467200, "durationMinutes": 0 },
+    { "name": "Shyntowo",     "genre": "4x4",                          "start": 1790470800, "durationMinutes": 0 },
+    { "name": "Open Decks",   "genre": "",                             "start": 1790474400, "durationMinutes": 0 }
   ]
 }
