@@ -4,11 +4,13 @@
   "tagline": "DANCE TOGETHER, FLY TOGETHER",
   "thanksMessage": "Thank you for visiting!",
   "performers": [
-    { "name": "x_Valnar_x",       "genre": "Trance into Hard",    "start": 1791658800, "durationMinutes": 120 },
-    { "name": "LoRd_Z",       "genre": "Hard Techno",         "start": 1791666000, "durationMinutes": 60 },
-    { "name": "Paris01",      "genre": "Schranz",             "start": 1791669600, "durationMinutes": 60 },
-    { "name": "leDinjo",      "genre": "High-Class Hardgroove","start": 1791673200, "durationMinutes": 60 },
-    { "name": "Traumlewis",  "genre": "Techno",              "start": 1791676800, "durationMinutes": 60 },
-    { "name": "Open Decks",   "genre": "",                    "start": 1791680400, "durationMinutes": 240 }
+    { "name": "x_Valnar_x",         "genre": "Mix Genre",       "start": 1792868400, "durationMinutes": 60 },
+    { "name": "Berghausa",      "genre": "Hands Up",        "start": 1792872000, "durationMinutes": 60 },
+    { "name": "sleepyneko__",   "genre": "Dubstep",         "start": 1792875600, "durationMinutes": 60 },
+    { "name": "BlackTiger-_-VR","genre": "Hardtechno",      "start": 1792879200, "durationMinutes": 60 },
+    { "name": "Ira",            "genre": "Multigenre Hard", "start": 1792882800, "durationMinutes": 60 },
+    { "name": "Goldman",        "genre": "Industrial",      "start": 1792886400, "durationMinutes": 60 },
+    { "name": "Traumlewis",    "genre": "Schranz",         "start": 1792890000, "durationMinutes": 60 },
+    { "name": "Open Decks",     "genre": "",                "start": 1792893600, "durationMinutes": 240 }
   ]
 }
