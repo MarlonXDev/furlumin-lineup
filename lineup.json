@@ -11,6 +11,6 @@
     { "name": "Ira",            "genre": "Multigenre Hard", "start": 1792882800, "durationMinutes": 60 },
     { "name": "Goldman",        "genre": "Industrial",      "start": 1792886400, "durationMinutes": 60 },
     { "name": "Traumlewis",    "genre": "Schranz",         "start": 1792890000, "durationMinutes": 60 },
-    { "name": "Open Decks",     "genre": "",                "start": 1792893600, "durationMinutes": 240 }
+    { "name": "Open Decks",     "genre": "",                "start": 1792893600, "durationMinutes": 60 }
   ]
 }
