@@ -4,12 +4,47 @@
   "tagline": "DANCE TOGETHER",
   "thanksMessage": "Thank you for visiting!",
   "performers": [
-    { "name": "YaBoiScar",         "genre": "???",       "start": 1795294800, "durationMinutes": 60 },
-    { "name": "LoRd_Z",      "genre": "???",        "start": 1795298400, "durationMinutes": 60 },
-    { "name": "Kari Kohaku",   "genre": "Hard Techno/Industrial",         "start": 1795302000, "durationMinutes": 60 },
-    { "name": "Paris01","genre": "Schranz",      "start": 1795305600, "durationMinutes": 60 },
-    { "name": "Loprov x Kazuki",            "genre": "yes", "start": 1795309200, "durationMinutes": 60 },
-    { "name": "Traumlewis",        "genre": "Schranz",      "start": 1795312800, "durationMinutes": 60 },
-    { "name": "Open Decks",     "genre": "",                "start": 1795316400, "durationMinutes": 60 }
+    {
+      "name": "YaBoiScar",
+      "genre": "TBA",
+      "start": 1795291200,
+      "durationMinutes": 60
+    },
+    {
+      "name": "LoRd_Z",
+      "genre": "TBA",
+      "start": 1795298400,
+      "durationMinutes": 60
+    },
+    {
+      "name": "Kari Kohaku",
+      "genre": "Hard Techno / Industrial",
+      "start": 1795302000,
+      "durationMinutes": 60
+    },
+    {
+      "name": "Paris01",
+      "genre": "Schranz",
+      "start": 1795305600,
+      "durationMinutes": 60
+    },
+    {
+      "name": "Loprov x Kazuki",
+      "genre": "TBA",
+      "start": 1795309200,
+      "durationMinutes": 60
+    },
+    {
+      "name": "Traumlewis",
+      "genre": "Schranz",
+      "start": 1795312800,
+      "durationMinutes": 60
+    },
+    {
+      "name": "Open Decks",
+      "genre": "",
+      "start": 1795316400,
+      "durationMinutes": 60
+    }
   ]
 }
